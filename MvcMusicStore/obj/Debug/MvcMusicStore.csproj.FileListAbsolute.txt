@@ -159,6 +159,5 @@ F:\MVC-Tutorial\MVC5Music\MvcMusicStore\bin\Microsoft.Owin.Security.OAuth.xml
 F:\MVC-Tutorial\MVC5Music\MvcMusicStore\bin\Microsoft.Owin.Security.Google.xml
 F:\MVC-Tutorial\MVC5Music\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
 F:\MVC-Tutorial\MVC5Music\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-F:\MVC-Tutorial\MVC5Music\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 F:\MVC-Tutorial\MVC5Music\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 F:\MVC-Tutorial\MVC5Music\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
