@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+
+//ViewModels are required when a class does not provide all properties required for a view - create a viewmodel instead which will display all of the properties
 namespace MvcMusicStore.Models
 {
     public class ExternalLoginConfirmationViewModel
