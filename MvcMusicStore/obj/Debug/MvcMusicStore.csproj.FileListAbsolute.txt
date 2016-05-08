@@ -242,3 +242,4 @@ C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.
 C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\MVC-Tutorial\MVC5Music\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
