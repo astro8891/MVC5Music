@@ -167,3 +167,15 @@ C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\Microsoft.Owin.Host.
 C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.dll
 C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.pdb
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Ashley\DEV\MVC5Music\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.csproj.App.config
